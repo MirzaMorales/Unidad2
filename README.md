@@ -4,7 +4,7 @@ Muñeco de nive
 ## Creador
 Morales Lezama Mirza Natzielly
 ## Explicacion de funcionamiento
-mi personaje al momento de sentir movimiento delante de el se quita el sombrero en señal de saludo, enciende sus botones y reproduce una cancion navideña
+El personaje al momento de sentir movimiento delante de el se quita el sombrero en señal de saludo, continuamente el una matrix se podra ver un mensaje "Feliz navidad", despuesenciende sus botones que seran 3 leds blancos y uno rojo que se encontrara en su nariz para que continuamente la cabeza de un giro de 360ª de ida y vuelta todo esto miestras se reproduce una cancion navideña.
 ## Materiales a utilizar
 | Material | Imagen | Cantidad | Precio |
 |-|-|-|-|
@@ -23,6 +23,8 @@ Thonny
 <img src="https://github.com/user-attachments/assets/c9768425-2304-416f-9596-dcf861a44acc" width="400"/>
 
 ## Enlace al drive donde se encuentran codigos y videos de ejercicios en clase
+
+Ahi mismo se podra apreciar el *!Video de Ejecucion del Sistema del Muñeco Navideño¡*
 
 https://drive.google.com/drive/folders/1f_utuj0TBm-nZ6t2NddCwjOiRx_8iMEf?usp=sharing
 
