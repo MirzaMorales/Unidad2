@@ -27,5 +27,25 @@ Thonny
 
 ## Imagen de los examenes de cisco
 Modulo 1
+
 <img src="https://github.com/user-attachments/assets/fec44169-ff1b-42b8-b68a-103d2e5282b0" width="500"/>
+
+Modulo 2
+
+<img src="https://github.com/user-attachments/assets/ed81c306-7099-46e0-bfd6-4bcdded5a635" width="500"/>
+
+Modulo 3
+
+<img src="https://github.com/user-attachments/assets/d34c7c6c-c8cc-421a-8c7e-bf0342b9f167" width="500"/>
+
+Modulo 4
+
+<img src="https://github.com/user-attachments/assets/2e8f04d7-e3be-4db7-b0e0-c2419c2b8e96" width="500"/>
+
+Examen Final del Curso
+
+<img src="https://github.com/user-attachments/assets/a4fb9681-abac-4a21-8eca-d750b822ab01" width="500"/>
+
+
+
 
