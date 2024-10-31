@@ -24,6 +24,7 @@ Thonny
 
 ## Enlace al drive donde se encuentran codigos y videos de ejercicios en clase
 
+https://drive.google.com/drive/folders/1f_utuj0TBm-nZ6t2NddCwjOiRx_8iMEf?usp=sharing
 
 ## Imagen de los examenes de cisco
 Modulo 1
