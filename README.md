@@ -32,6 +32,10 @@ https://drive.google.com/drive/folders/1f_utuj0TBm-nZ6t2NddCwjOiRx_8iMEf?usp=sha
 
 [COEVALUACIÓN.docx](https://github.com/user-attachments/files/17603692/COEVALUACION.docx)
 
+## Como aplicare Python en mi proyecto
+
+El curso fue muy agradable y me ayudo a comprender mas que es lo que estaba haciendo en cada practica que realizaba en el aula de clases, en este caso se a decidido usar Python en le proyecto de muñeco de nieve por que se me hace un lenguaje facil de comprender utilizando distintas funciones que ayudaran a que se realicen las tareas de movimientos que debera de hacer mi muñeco de nieve.
+
 ## Imagen de los examenes de cisco
 Modulo 1
 
