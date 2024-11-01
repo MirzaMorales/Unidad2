@@ -28,6 +28,10 @@ Ahi mismo se podra apreciar el *!Video de Ejecucion del Sistema del Muñeco Navi
 
 https://drive.google.com/drive/folders/1f_utuj0TBm-nZ6t2NddCwjOiRx_8iMEf?usp=sharing
 
+## Coevaluacion
+
+[COEVALUACIÓN.docx](https://github.com/user-attachments/files/17603692/COEVALUACION.docx)
+
 ## Imagen de los examenes de cisco
 Modulo 1
 
